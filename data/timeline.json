@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "events": [
+    { "year": 1666, "title": "Newton's Prism", "description": "White light splits into spectrum" },
+    { "year": 1704, "title": "Opticks Published", "description": "Newton's book on light and color" },
+    { "year": 1810, "title": "Goethe's Color Theory", "description": "Perception-based theory" },
+    { "year": 1861, "title": "First Color Photo", "description": "Maxwell demonstrates RGB" },
+    { "year": 1905, "title": "Munsell System", "description": "Hue/Value/Chroma" },
+    { "year": 1931, "title": "CIE XYZ", "description": "First mathematical color space" },
+    { "year": 1961, "title": "Itten's 7 Contrasts", "description": "Bauhaus color theory" },
+    { "year": 1963, "title": "Albers' Interaction", "description": "Relativity of color perception" },
+    { "year": 1976, "title": "CIELAB", "description": "Perceptually uniform space" },
+    { "year": 1996, "title": "sRGB Standard", "description": "Web color space" },
+    { "year": 2020, "title": "OKLCH Introduced", "description": "Perceptual uniformity" },
+    { "year": 2022, "title": "CSS Color 4", "description": "OKLCH in browsers" },
+    { "year": 2025, "title": "WCAG 2.2", "description": "Enhanced accessibility" },
+    { "year": 2029, "title": "The Future", "description": "AI-native color systems" }
+  ]
+}

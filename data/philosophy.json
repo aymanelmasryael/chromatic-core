@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "schools": [
+    { "id": "newton",  "year": 1666, "name": "Newton",  "principle": "Color is light — spectrum via prism" },
+    { "id": "goethe",  "year": 1810, "name": "Goethe",  "principle": "Color is perception — subjective" },
+    { "id": "munsell", "year": 1905, "name": "Munsell", "principle": "Hue · Value · Chroma" },
+    { "id": "itten",   "year": 1961, "name": "Itten",   "principle": "7 contrasts — Bauhaus" },
+    { "id": "oklch",   "year": 2020, "name": "OKLCH",   "principle": "Perceptual uniformity" }
+  ],
+  "goldenRules": [
+    { "id": "60-30-10", "rule": "60% dominant, 30% secondary, 10% accent" },
+    { "id": "contrast", "rule": "Minimum 4.5:1 for body text" },
+    { "id": "harmony", "rule": "Complementary, triadic, or analogous" },
+    { "id": "temperature", "rule": "Balance warm and cool" },
+    { "id": "saturation", "rule": "High saturation grabs attention" },
+    { "id": "lightness", "rule": "Vary for hierarchy" },
+    { "id": "accessibility", "rule": "Never rely on color alone" },
+    { "id": "cultural", "rule": "Respect East/West differences" }
+  ]
+}

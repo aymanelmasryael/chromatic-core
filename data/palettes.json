@@ -1,0 +1,35 @@
+{
+  "version": "1.0.0",
+  "palettes": [
+    {
+      "id": "ael-brand",
+      "name": "AEL Brand System",
+      "source": "AEL Digital Studio",
+      "colors": ["#0074FF", "#6C47FF", "#00D4AA", "#FF4D8D", "#F59E0B"]
+    },
+    {
+      "id": "material-blue",
+      "name": "Material Blue",
+      "source": "Google Material",
+      "colors": ["#E3F2FD", "#90CAF9", "#2196F3", "#1976D2", "#0D47A1"]
+    },
+    {
+      "id": "nord",
+      "name": "Nord",
+      "source": "Arctic Ice Studio",
+      "colors": ["#2E3440", "#3B4252", "#88C0D0", "#A3BE8C", "#EBCB8B"]
+    },
+    {
+      "id": "dracula",
+      "name": "Dracula",
+      "source": "Dracula Theme",
+      "colors": ["#282A36", "#44475A", "#BD93F9", "#50FA7B", "#FF79C6"]
+    },
+    {
+      "id": "tokyo-night",
+      "name": "Tokyo Night",
+      "source": "Tokyo Night",
+      "colors": ["#1A1B26", "#24283B", "#7AA2F7", "#BB9AF7", "#F7768E"]
+    }
+  ]
+}
